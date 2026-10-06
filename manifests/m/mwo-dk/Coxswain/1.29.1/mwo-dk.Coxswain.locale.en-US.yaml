@@ -12,14 +12,13 @@ PackageName: Coxswain
 PackageUrl: https://github.com/mwo-dk/coxswain
 License: MIT
 LicenseUrl: https://github.com/mwo-dk/coxswain/blob/master/LICENSE
-ShortDescription: A two-panel file manager in the spirit of Norton Commander, with search by name, text and meaning.
-Description: Coxswain is a two-panel file manager for the desktop, in the spirit of Norton Commander. It finds files by name, by the text inside them and by what they are about, previews documents, data, images and code, shows git status and history, opens archives as folders, and finds duplicates. Online-only cloud files (OneDrive, Dropbox, Google Drive) are never downloaded unless you open one. A terminal app with the same keys is the package mwo-dk.Coxswain.Terminal.
+ShortDescription: A two-panel file manager with search by name, text and meaning.
+Description: Coxswain is a two-panel file manager for the desktop, with an F-key bar and a keyboard-first layout. It finds files by name, by the text inside them and by what they are about, previews documents, data, images and code, shows git status and history, opens archives as folders, and finds duplicates. Online-only cloud files are never downloaded unless you open one. A terminal app with the same keys is the package mwo-dk.Coxswain.Terminal.
 Moniker: coxswain
 Tags:
 - archive
 - file-manager
 - git
-- norton-commander
 - orthodox-file-manager
 - search
 ReleaseNotesUrl: https://github.com/mwo-dk/coxswain/releases/tag/v1.29.1
